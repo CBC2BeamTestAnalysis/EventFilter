@@ -1,0 +1,220 @@
+[Phase2TrackerCablingCfgESSource::Phase2TrackerCablingCfgESSource] Constructing object...
+20-Jun-2015 15:45:04 CEST  Initiating request to open file file:/home/xtaldaq/storageManager/closed/USC.00000653.0001.A.storageManager.00.0000.dat
+20-Jun-2015 15:45:04 CEST  Successfully opened file file:/home/xtaldaq/storageManager/closed/USC.00000653.0001.A.storageManager.00.0000.dat
+%MSG-i Root_Information:  AfterModConstruction TClass::TClass()  20-Jun-2015 15:45:05 CEST pre-events
+no dictionary for class edmNew::DetSet<SiPixelCluster> is available
+%MSG
+[Phase2TrackerCablingCfgESSource::make] Building FED cabling map from cfg.
+Begin processing the 1st record. Run 653, Event 2, LumiSection 1 at 20-Jun-2015 15:45:05.794 CEST
+Begin processing the 2nd record. Run 653, Event 3, LumiSection 1 at 20-Jun-2015 15:45:05.796 CEST
+Begin processing the 3rd record. Run 653, Event 4, LumiSection 1 at 20-Jun-2015 15:45:05.797 CEST
+Begin processing the 4th record. Run 653, Event 5, LumiSection 1 at 20-Jun-2015 15:45:05.798 CEST
+Begin processing the 5th record. Run 653, Event 6, LumiSection 1 at 20-Jun-2015 15:45:05.799 CEST
+Begin processing the 6th record. Run 653, Event 7, LumiSection 1 at 20-Jun-2015 15:45:05.799 CEST
+Begin processing the 7th record. Run 653, Event 8, LumiSection 1 at 20-Jun-2015 15:45:05.800 CEST
+Begin processing the 8th record. Run 653, Event 9, LumiSection 1 at 20-Jun-2015 15:45:05.801 CEST
+Begin processing the 9th record. Run 653, Event 10, LumiSection 1 at 20-Jun-2015 15:45:05.801 CEST
+Begin processing the 10th record. Run 653, Event 11, LumiSection 1 at 20-Jun-2015 15:45:05.802 CEST
+Begin processing the 11th record. Run 653, Event 12, LumiSection 1 at 20-Jun-2015 15:45:05.803 CEST
+Begin processing the 12th record. Run 653, Event 13, LumiSection 1 at 20-Jun-2015 15:45:05.803 CEST
+Begin processing the 13th record. Run 653, Event 14, LumiSection 1 at 20-Jun-2015 15:45:05.804 CEST
+Begin processing the 14th record. Run 653, Event 15, LumiSection 1 at 20-Jun-2015 15:45:05.805 CEST
+Begin processing the 15th record. Run 653, Event 16, LumiSection 1 at 20-Jun-2015 15:45:05.805 CEST
+Begin processing the 16th record. Run 653, Event 17, LumiSection 1 at 20-Jun-2015 15:45:05.806 CEST
+Begin processing the 17th record. Run 653, Event 18, LumiSection 1 at 20-Jun-2015 15:45:05.807 CEST
+Begin processing the 18th record. Run 653, Event 19, LumiSection 1 at 20-Jun-2015 15:45:05.807 CEST
+Begin processing the 19th record. Run 653, Event 20, LumiSection 1 at 20-Jun-2015 15:45:05.808 CEST
+Begin processing the 20th record. Run 653, Event 21, LumiSection 1 at 20-Jun-2015 15:45:05.809 CEST
+Begin processing the 21st record. Run 653, Event 22, LumiSection 1 at 20-Jun-2015 15:45:05.809 CEST
+Begin processing the 22nd record. Run 653, Event 23, LumiSection 1 at 20-Jun-2015 15:45:05.810 CEST
+Begin processing the 23rd record. Run 653, Event 24, LumiSection 1 at 20-Jun-2015 15:45:05.811 CEST
+Begin processing the 24th record. Run 653, Event 25, LumiSection 1 at 20-Jun-2015 15:45:05.811 CEST
+Begin processing the 25th record. Run 653, Event 26, LumiSection 1 at 20-Jun-2015 15:45:05.812 CEST
+Begin processing the 26th record. Run 653, Event 27, LumiSection 1 at 20-Jun-2015 15:45:05.813 CEST
+Begin processing the 27th record. Run 653, Event 28, LumiSection 1 at 20-Jun-2015 15:45:05.813 CEST
+Begin processing the 28th record. Run 653, Event 29, LumiSection 1 at 20-Jun-2015 15:45:05.814 CEST
+Begin processing the 29th record. Run 653, Event 30, LumiSection 1 at 20-Jun-2015 15:45:05.815 CEST
+Begin processing the 30th record. Run 653, Event 31, LumiSection 1 at 20-Jun-2015 15:45:05.815 CEST
+Begin processing the 31st record. Run 653, Event 32, LumiSection 1 at 20-Jun-2015 15:45:05.816 CEST
+Begin processing the 32nd record. Run 653, Event 33, LumiSection 1 at 20-Jun-2015 15:45:05.817 CEST
+Begin processing the 33rd record. Run 653, Event 34, LumiSection 1 at 20-Jun-2015 15:45:05.817 CEST
+Begin processing the 34th record. Run 653, Event 35, LumiSection 1 at 20-Jun-2015 15:45:05.818 CEST
+Begin processing the 35th record. Run 653, Event 36, LumiSection 1 at 20-Jun-2015 15:45:05.819 CEST
+Begin processing the 36th record. Run 653, Event 37, LumiSection 1 at 20-Jun-2015 15:45:05.819 CEST
+Begin processing the 37th record. Run 653, Event 38, LumiSection 1 at 20-Jun-2015 15:45:05.820 CEST
+Begin processing the 38th record. Run 653, Event 39, LumiSection 1 at 20-Jun-2015 15:45:05.821 CEST
+Begin processing the 39th record. Run 653, Event 40, LumiSection 1 at 20-Jun-2015 15:45:05.821 CEST
+Begin processing the 40th record. Run 653, Event 41, LumiSection 1 at 20-Jun-2015 15:45:05.822 CEST
+Begin processing the 41st record. Run 653, Event 42, LumiSection 1 at 20-Jun-2015 15:45:05.823 CEST
+Begin processing the 42nd record. Run 653, Event 43, LumiSection 1 at 20-Jun-2015 15:45:05.823 CEST
+Begin processing the 43rd record. Run 653, Event 44, LumiSection 1 at 20-Jun-2015 15:45:05.824 CEST
+Begin processing the 44th record. Run 653, Event 45, LumiSection 1 at 20-Jun-2015 15:45:05.825 CEST
+Begin processing the 45th record. Run 653, Event 46, LumiSection 1 at 20-Jun-2015 15:45:05.825 CEST
+Begin processing the 46th record. Run 653, Event 47, LumiSection 1 at 20-Jun-2015 15:45:05.826 CEST
+Begin processing the 47th record. Run 653, Event 48, LumiSection 1 at 20-Jun-2015 15:45:05.827 CEST
+Begin processing the 48th record. Run 653, Event 49, LumiSection 1 at 20-Jun-2015 15:45:05.827 CEST
+Begin processing the 49th record. Run 653, Event 50, LumiSection 1 at 20-Jun-2015 15:45:05.828 CEST
+Begin processing the 50th record. Run 653, Event 51, LumiSection 1 at 20-Jun-2015 15:45:05.829 CEST
+Begin processing the 51st record. Run 653, Event 52, LumiSection 1 at 20-Jun-2015 15:45:05.829 CEST
+Begin processing the 52nd record. Run 653, Event 53, LumiSection 1 at 20-Jun-2015 15:45:05.830 CEST
+Begin processing the 53rd record. Run 653, Event 54, LumiSection 1 at 20-Jun-2015 15:45:05.831 CEST
+Begin processing the 54th record. Run 653, Event 55, LumiSection 1 at 20-Jun-2015 15:45:05.831 CEST
+Begin processing the 55th record. Run 653, Event 56, LumiSection 1 at 20-Jun-2015 15:45:05.832 CEST
+Begin processing the 56th record. Run 653, Event 57, LumiSection 1 at 20-Jun-2015 15:45:05.833 CEST
+Begin processing the 57th record. Run 653, Event 58, LumiSection 1 at 20-Jun-2015 15:45:05.833 CEST
+Begin processing the 58th record. Run 653, Event 59, LumiSection 1 at 20-Jun-2015 15:45:05.834 CEST
+Begin processing the 59th record. Run 653, Event 60, LumiSection 1 at 20-Jun-2015 15:45:05.835 CEST
+Begin processing the 60th record. Run 653, Event 61, LumiSection 1 at 20-Jun-2015 15:45:05.835 CEST
+Begin processing the 61st record. Run 653, Event 62, LumiSection 1 at 20-Jun-2015 15:45:05.836 CEST
+Begin processing the 62nd record. Run 653, Event 63, LumiSection 1 at 20-Jun-2015 15:45:05.837 CEST
+Begin processing the 63rd record. Run 653, Event 64, LumiSection 1 at 20-Jun-2015 15:45:05.837 CEST
+Begin processing the 64th record. Run 653, Event 65, LumiSection 1 at 20-Jun-2015 15:45:05.838 CEST
+Begin processing the 65th record. Run 653, Event 66, LumiSection 1 at 20-Jun-2015 15:45:05.839 CEST
+Begin processing the 66th record. Run 653, Event 67, LumiSection 1 at 20-Jun-2015 15:45:05.839 CEST
+Begin processing the 67th record. Run 653, Event 68, LumiSection 1 at 20-Jun-2015 15:45:05.840 CEST
+Begin processing the 68th record. Run 653, Event 69, LumiSection 1 at 20-Jun-2015 15:45:05.841 CEST
+Begin processing the 69th record. Run 653, Event 70, LumiSection 1 at 20-Jun-2015 15:45:05.841 CEST
+Begin processing the 70th record. Run 653, Event 71, LumiSection 1 at 20-Jun-2015 15:45:05.842 CEST
+Begin processing the 71st record. Run 653, Event 72, LumiSection 1 at 20-Jun-2015 15:45:05.843 CEST
+Begin processing the 72nd record. Run 653, Event 73, LumiSection 1 at 20-Jun-2015 15:45:05.843 CEST
+Begin processing the 73rd record. Run 653, Event 74, LumiSection 1 at 20-Jun-2015 15:45:05.844 CEST
+Begin processing the 74th record. Run 653, Event 75, LumiSection 1 at 20-Jun-2015 15:45:05.845 CEST
+Begin processing the 75th record. Run 653, Event 76, LumiSection 1 at 20-Jun-2015 15:45:05.845 CEST
+Begin processing the 76th record. Run 653, Event 77, LumiSection 1 at 20-Jun-2015 15:45:05.846 CEST
+Begin processing the 77th record. Run 653, Event 78, LumiSection 1 at 20-Jun-2015 15:45:05.847 CEST
+Begin processing the 78th record. Run 653, Event 79, LumiSection 1 at 20-Jun-2015 15:45:05.847 CEST
+Begin processing the 79th record. Run 653, Event 80, LumiSection 1 at 20-Jun-2015 15:45:05.848 CEST
+Begin processing the 80th record. Run 653, Event 81, LumiSection 1 at 20-Jun-2015 15:45:05.849 CEST
+Begin processing the 81st record. Run 653, Event 82, LumiSection 1 at 20-Jun-2015 15:45:05.849 CEST
+Begin processing the 82nd record. Run 653, Event 83, LumiSection 1 at 20-Jun-2015 15:45:05.850 CEST
+Begin processing the 83rd record. Run 653, Event 84, LumiSection 1 at 20-Jun-2015 15:45:05.851 CEST
+Begin processing the 84th record. Run 653, Event 85, LumiSection 1 at 20-Jun-2015 15:45:05.851 CEST
+Begin processing the 85th record. Run 653, Event 86, LumiSection 1 at 20-Jun-2015 15:45:05.852 CEST
+Begin processing the 86th record. Run 653, Event 87, LumiSection 1 at 20-Jun-2015 15:45:05.853 CEST
+Begin processing the 87th record. Run 653, Event 88, LumiSection 1 at 20-Jun-2015 15:45:05.853 CEST
+Begin processing the 88th record. Run 653, Event 89, LumiSection 1 at 20-Jun-2015 15:45:05.854 CEST
+Begin processing the 89th record. Run 653, Event 90, LumiSection 1 at 20-Jun-2015 15:45:05.855 CEST
+Begin processing the 90th record. Run 653, Event 91, LumiSection 1 at 20-Jun-2015 15:45:05.855 CEST
+Begin processing the 91st record. Run 653, Event 92, LumiSection 1 at 20-Jun-2015 15:45:05.856 CEST
+Begin processing the 92nd record. Run 653, Event 93, LumiSection 1 at 20-Jun-2015 15:45:05.857 CEST
+Begin processing the 93rd record. Run 653, Event 94, LumiSection 1 at 20-Jun-2015 15:45:05.857 CEST
+Begin processing the 94th record. Run 653, Event 95, LumiSection 1 at 20-Jun-2015 15:45:05.858 CEST
+Begin processing the 95th record. Run 653, Event 96, LumiSection 1 at 20-Jun-2015 15:45:05.859 CEST
+Begin processing the 96th record. Run 653, Event 97, LumiSection 1 at 20-Jun-2015 15:45:05.859 CEST
+Begin processing the 97th record. Run 653, Event 98, LumiSection 1 at 20-Jun-2015 15:45:05.860 CEST
+Begin processing the 98th record. Run 653, Event 99, LumiSection 1 at 20-Jun-2015 15:45:05.861 CEST
+Begin processing the 99th record. Run 653, Event 100, LumiSection 1 at 20-Jun-2015 15:45:05.861 CEST
+Begin processing the 100th record. Run 653, Event 101, LumiSection 1 at 20-Jun-2015 15:45:05.862 CEST
+Begin processing the 101st record. Run 653, Event 102, LumiSection 1 at 20-Jun-2015 15:45:05.863 CEST
+Begin processing the 102nd record. Run 653, Event 103, LumiSection 1 at 20-Jun-2015 15:45:05.863 CEST
+Begin processing the 103rd record. Run 653, Event 104, LumiSection 1 at 20-Jun-2015 15:45:05.864 CEST
+Begin processing the 104th record. Run 653, Event 105, LumiSection 1 at 20-Jun-2015 15:45:05.865 CEST
+Begin processing the 105th record. Run 653, Event 106, LumiSection 1 at 20-Jun-2015 15:45:05.865 CEST
+Begin processing the 106th record. Run 653, Event 107, LumiSection 1 at 20-Jun-2015 15:45:05.866 CEST
+Begin processing the 107th record. Run 653, Event 108, LumiSection 1 at 20-Jun-2015 15:45:05.867 CEST
+Begin processing the 108th record. Run 653, Event 109, LumiSection 1 at 20-Jun-2015 15:45:05.867 CEST
+Begin processing the 109th record. Run 653, Event 110, LumiSection 1 at 20-Jun-2015 15:45:05.868 CEST
+Begin processing the 110th record. Run 653, Event 111, LumiSection 1 at 20-Jun-2015 15:45:05.869 CEST
+Begin processing the 111th record. Run 653, Event 112, LumiSection 1 at 20-Jun-2015 15:45:05.869 CEST
+Begin processing the 112th record. Run 653, Event 113, LumiSection 1 at 20-Jun-2015 15:45:05.870 CEST
+Begin processing the 113th record. Run 653, Event 114, LumiSection 1 at 20-Jun-2015 15:45:05.871 CEST
+Begin processing the 114th record. Run 653, Event 115, LumiSection 1 at 20-Jun-2015 15:45:05.871 CEST
+Begin processing the 115th record. Run 653, Event 116, LumiSection 1 at 20-Jun-2015 15:45:05.872 CEST
+Begin processing the 116th record. Run 653, Event 117, LumiSection 1 at 20-Jun-2015 15:45:05.873 CEST
+Begin processing the 117th record. Run 653, Event 118, LumiSection 1 at 20-Jun-2015 15:45:05.873 CEST
+Begin processing the 118th record. Run 653, Event 119, LumiSection 1 at 20-Jun-2015 15:45:05.874 CEST
+Begin processing the 119th record. Run 653, Event 120, LumiSection 1 at 20-Jun-2015 15:45:05.875 CEST
+Begin processing the 120th record. Run 653, Event 121, LumiSection 1 at 20-Jun-2015 15:45:05.875 CEST
+Begin processing the 121st record. Run 653, Event 122, LumiSection 1 at 20-Jun-2015 15:45:05.876 CEST
+Begin processing the 122nd record. Run 653, Event 123, LumiSection 1 at 20-Jun-2015 15:45:05.877 CEST
+Begin processing the 123rd record. Run 653, Event 124, LumiSection 1 at 20-Jun-2015 15:45:05.878 CEST
+Begin processing the 124th record. Run 653, Event 125, LumiSection 1 at 20-Jun-2015 15:45:05.878 CEST
+Begin processing the 125th record. Run 653, Event 126, LumiSection 1 at 20-Jun-2015 15:45:05.879 CEST
+Begin processing the 126th record. Run 653, Event 127, LumiSection 1 at 20-Jun-2015 15:45:05.880 CEST
+Begin processing the 127th record. Run 653, Event 128, LumiSection 1 at 20-Jun-2015 15:45:05.880 CEST
+Begin processing the 128th record. Run 653, Event 129, LumiSection 1 at 20-Jun-2015 15:45:05.881 CEST
+Begin processing the 129th record. Run 653, Event 130, LumiSection 1 at 20-Jun-2015 15:45:05.882 CEST
+Begin processing the 130th record. Run 653, Event 131, LumiSection 1 at 20-Jun-2015 15:45:05.882 CEST
+Begin processing the 131st record. Run 653, Event 132, LumiSection 1 at 20-Jun-2015 15:45:05.883 CEST
+Begin processing the 132nd record. Run 653, Event 133, LumiSection 1 at 20-Jun-2015 15:45:05.884 CEST
+Begin processing the 133rd record. Run 653, Event 134, LumiSection 1 at 20-Jun-2015 15:45:05.884 CEST
+Begin processing the 134th record. Run 653, Event 135, LumiSection 1 at 20-Jun-2015 15:45:05.885 CEST
+Begin processing the 135th record. Run 653, Event 136, LumiSection 1 at 20-Jun-2015 15:45:05.886 CEST
+Begin processing the 136th record. Run 653, Event 137, LumiSection 1 at 20-Jun-2015 15:45:05.886 CEST
+Begin processing the 137th record. Run 653, Event 138, LumiSection 1 at 20-Jun-2015 15:45:05.887 CEST
+Begin processing the 138th record. Run 653, Event 139, LumiSection 1 at 20-Jun-2015 15:45:05.888 CEST
+Begin processing the 139th record. Run 653, Event 140, LumiSection 1 at 20-Jun-2015 15:45:05.888 CEST
+Begin processing the 140th record. Run 653, Event 141, LumiSection 1 at 20-Jun-2015 15:45:05.889 CEST
+Begin processing the 141st record. Run 653, Event 142, LumiSection 1 at 20-Jun-2015 15:45:05.890 CEST
+Begin processing the 142nd record. Run 653, Event 143, LumiSection 1 at 20-Jun-2015 15:45:05.890 CEST
+Begin processing the 143rd record. Run 653, Event 144, LumiSection 1 at 20-Jun-2015 15:45:05.891 CEST
+Begin processing the 144th record. Run 653, Event 145, LumiSection 1 at 20-Jun-2015 15:45:05.892 CEST
+Begin processing the 145th record. Run 653, Event 146, LumiSection 1 at 20-Jun-2015 15:45:05.892 CEST
+Begin processing the 146th record. Run 653, Event 147, LumiSection 1 at 20-Jun-2015 15:45:05.893 CEST
+Begin processing the 147th record. Run 653, Event 148, LumiSection 1 at 20-Jun-2015 15:45:05.894 CEST
+Begin processing the 148th record. Run 653, Event 149, LumiSection 1 at 20-Jun-2015 15:45:05.894 CEST
+Begin processing the 149th record. Run 653, Event 150, LumiSection 1 at 20-Jun-2015 15:45:05.895 CEST
+Begin processing the 150th record. Run 653, Event 151, LumiSection 1 at 20-Jun-2015 15:45:05.896 CEST
+Begin processing the 151st record. Run 653, Event 152, LumiSection 1 at 20-Jun-2015 15:45:05.896 CEST
+Begin processing the 152nd record. Run 653, Event 153, LumiSection 1 at 20-Jun-2015 15:45:05.897 CEST
+Begin processing the 153rd record. Run 653, Event 154, LumiSection 1 at 20-Jun-2015 15:45:05.898 CEST
+Begin processing the 154th record. Run 653, Event 155, LumiSection 1 at 20-Jun-2015 15:45:05.898 CEST
+Begin processing the 155th record. Run 653, Event 156, LumiSection 1 at 20-Jun-2015 15:45:05.899 CEST
+Begin processing the 156th record. Run 653, Event 157, LumiSection 1 at 20-Jun-2015 15:45:05.900 CEST
+Begin processing the 157th record. Run 653, Event 158, LumiSection 1 at 20-Jun-2015 15:45:05.900 CEST
+Begin processing the 158th record. Run 653, Event 159, LumiSection 1 at 20-Jun-2015 15:45:05.901 CEST
+Begin processing the 159th record. Run 653, Event 160, LumiSection 1 at 20-Jun-2015 15:45:05.902 CEST
+Begin processing the 160th record. Run 653, Event 161, LumiSection 1 at 20-Jun-2015 15:45:05.902 CEST
+Begin processing the 161st record. Run 653, Event 162, LumiSection 1 at 20-Jun-2015 15:45:05.903 CEST
+Begin processing the 162nd record. Run 653, Event 163, LumiSection 1 at 20-Jun-2015 15:45:05.904 CEST
+Begin processing the 163rd record. Run 653, Event 164, LumiSection 1 at 20-Jun-2015 15:45:05.904 CEST
+Begin processing the 164th record. Run 653, Event 165, LumiSection 1 at 20-Jun-2015 15:45:05.905 CEST
+Begin processing the 165th record. Run 653, Event 166, LumiSection 1 at 20-Jun-2015 15:45:05.906 CEST
+Begin processing the 166th record. Run 653, Event 167, LumiSection 1 at 20-Jun-2015 15:45:05.906 CEST
+Begin processing the 167th record. Run 653, Event 168, LumiSection 1 at 20-Jun-2015 15:45:05.907 CEST
+Begin processing the 168th record. Run 653, Event 169, LumiSection 1 at 20-Jun-2015 15:45:05.908 CEST
+Begin processing the 169th record. Run 653, Event 170, LumiSection 1 at 20-Jun-2015 15:45:05.908 CEST
+Begin processing the 170th record. Run 653, Event 171, LumiSection 1 at 20-Jun-2015 15:45:05.909 CEST
+Begin processing the 171st record. Run 653, Event 172, LumiSection 1 at 20-Jun-2015 15:45:05.910 CEST
+Begin processing the 172nd record. Run 653, Event 173, LumiSection 1 at 20-Jun-2015 15:45:05.910 CEST
+Begin processing the 173rd record. Run 653, Event 174, LumiSection 1 at 20-Jun-2015 15:45:05.911 CEST
+Begin processing the 174th record. Run 653, Event 175, LumiSection 1 at 20-Jun-2015 15:45:05.912 CEST
+Begin processing the 175th record. Run 653, Event 176, LumiSection 1 at 20-Jun-2015 15:45:05.912 CEST
+Begin processing the 176th record. Run 653, Event 177, LumiSection 1 at 20-Jun-2015 15:45:05.913 CEST
+Begin processing the 177th record. Run 653, Event 178, LumiSection 1 at 20-Jun-2015 15:45:05.914 CEST
+Begin processing the 178th record. Run 653, Event 179, LumiSection 1 at 20-Jun-2015 15:45:05.914 CEST
+Begin processing the 179th record. Run 653, Event 180, LumiSection 1 at 20-Jun-2015 15:45:05.915 CEST
+Begin processing the 180th record. Run 653, Event 181, LumiSection 1 at 20-Jun-2015 15:45:05.916 CEST
+Begin processing the 181st record. Run 653, Event 182, LumiSection 1 at 20-Jun-2015 15:45:05.916 CEST
+Begin processing the 182nd record. Run 653, Event 183, LumiSection 1 at 20-Jun-2015 15:45:05.917 CEST
+Begin processing the 183rd record. Run 653, Event 184, LumiSection 1 at 20-Jun-2015 15:45:05.918 CEST
+Begin processing the 184th record. Run 653, Event 185, LumiSection 1 at 20-Jun-2015 15:45:05.918 CEST
+Begin processing the 185th record. Run 653, Event 186, LumiSection 1 at 20-Jun-2015 15:45:05.919 CEST
+Begin processing the 186th record. Run 653, Event 187, LumiSection 1 at 20-Jun-2015 15:45:05.920 CEST
+Begin processing the 187th record. Run 653, Event 188, LumiSection 1 at 20-Jun-2015 15:45:05.920 CEST
+Begin processing the 188th record. Run 653, Event 189, LumiSection 1 at 20-Jun-2015 15:45:05.921 CEST
+Begin processing the 189th record. Run 653, Event 190, LumiSection 1 at 20-Jun-2015 15:45:05.922 CEST
+Begin processing the 190th record. Run 653, Event 191, LumiSection 1 at 20-Jun-2015 15:45:05.922 CEST
+Begin processing the 191st record. Run 653, Event 192, LumiSection 1 at 20-Jun-2015 15:45:05.923 CEST
+Begin processing the 192nd record. Run 653, Event 193, LumiSection 1 at 20-Jun-2015 15:45:05.924 CEST
+Begin processing the 193rd record. Run 653, Event 194, LumiSection 1 at 20-Jun-2015 15:45:05.924 CEST
+Begin processing the 194th record. Run 653, Event 195, LumiSection 1 at 20-Jun-2015 15:45:05.925 CEST
+Begin processing the 195th record. Run 653, Event 196, LumiSection 1 at 20-Jun-2015 15:45:05.926 CEST
+Begin processing the 196th record. Run 653, Event 197, LumiSection 1 at 20-Jun-2015 15:45:05.926 CEST
+Begin processing the 197th record. Run 653, Event 198, LumiSection 1 at 20-Jun-2015 15:45:05.927 CEST
+Begin processing the 198th record. Run 653, Event 199, LumiSection 1 at 20-Jun-2015 15:45:05.928 CEST
+Begin processing the 199th record. Run 653, Event 200, LumiSection 1 at 20-Jun-2015 15:45:05.928 CEST
+20-Jun-2015 15:45:05 CEST  Closed file file:/home/xtaldaq/storageManager/closed/USC.00000653.0001.A.storageManager.00.0000.dat
+%MSG-i Root_Information:  PostEndRun TClass::TClass() 20-Jun-2015 15:45:05 CEST  PostEndRun
+no dictionary for class pair<edm::IndexIntoFile::IndexRunKey,Long64_t> is available
+%MSG
+%MSG-i Root_Information:  PostEndRun TClass::TClass() 20-Jun-2015 15:45:05 CEST  PostEndRun
+no dictionary for class pair<edm::IndexIntoFile::IndexRunLumiKey,Long64_t> is available
+%MSG
+%MSG-i Root_Information:  PostEndRun TClass::TClass() 20-Jun-2015 15:45:05 CEST  PostEndRun
+no dictionary for class pair<edm::BranchKey,edm::ConstBranchDescription> is available
+%MSG
+%MSG-i Root_Information:  PostEndRun TClass::TClass() 20-Jun-2015 15:45:05 CEST  PostEndRun
+no dictionary for class pair<edm::BranchID,unsigned int> is available
+%MSG
+[Phase2TrackerCablingCfgESSource::~Phase2TrackerCablingCfgESSource] Destructing object...
